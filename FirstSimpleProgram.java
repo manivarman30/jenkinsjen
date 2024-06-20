@@ -3,7 +3,7 @@ public class FirstSimpleProgram {
 	System.out.println("This is my first Jenkins Build Program");
 int i = 100;
 int j = 1890;
-
+float f = 11.11f;
 	   int i = 10;
 	System.out.println("VELU VELAYUDAM");
 	   
