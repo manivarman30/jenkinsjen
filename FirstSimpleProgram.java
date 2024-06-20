@@ -4,6 +4,6 @@ public class FirstSimpleProgram {
 int i = 100;
 int j = 1890;
 
-	   
+	   int i = 10;
    }
 }
